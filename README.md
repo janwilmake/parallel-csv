@@ -7,3 +7,4 @@
 5. choice
    1. go back to step 2
    2. perform batch api on all rows
+6. download/view csv
